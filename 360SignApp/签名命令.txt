@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore D:\JAVA\Android\IntellijProjects\02_CoolWeather\KeyStore\czb53090.jks -storepass 440582czb D:\JAVA\Android\IntellijProjects\02_CoolWeather\360SignApp\-qihoo-release_b0009db9_enc.apk czb53090
